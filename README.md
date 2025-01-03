@@ -3,20 +3,21 @@
 Sou Técnico em Eletrônica Pleno na Autodoc Tecnologia, estudante de Engenharia de Computação e apaixonado por desenvolvimento de sistemas e sistemas embarcados. Com formação técnica em Eletroeletrônica e Qualidade, tenho experiência prática em automação, controle de qualidade e integração entre hardware e software. 🚀
 
 💼 Tecnologias e Competências:
-Linguagens: Python (FastAPI, Django), C
+Linguagens: Python, C/C++
 Hardware: ESP32, PIC, Raspberry Pi, Arduino
-Backend: Node.js, Docker, Git
-Banco de Dados: MySQL, PostgreSQL
-Desenvolvimento: Criação de firmware, otimização de circuitos e layout de PCBs
-📂 Projetos em Destaque:
-API Restaurante:
-Backend para gerenciar cardápios de restaurantes.
+Sistemas Operacionais: FreeRTOS (para gerenciamento de tarefas)
+Desenvolvimento Web: FastAPI, HTTPD (servidor web embutido do ESP-IDF), JavaScript, HTML/CSS
+Ferramentas: Git, GitHub
+Desenvolvimento de Software: Manipulação de listas e dicionários (Python), laços de repetição, estruturas condicionais (if-elif-else), tratamento de exceções
+Outros: Relé, Interface de Linha de Comando (CLI), Ambientes Virtuais
 
+📂 Projetos em Destaque:
 Monitor de Consumo de Energia:
 Projeto integrador que utiliza ESP32 para monitoramento de energia.
 
+
 🌱 Atualmente Estudando:
-Sistemas IoT.
+Sistemas embarcados IoT.
 
 🎯 Objetivo:
 Especialização em sistemas embarcados e desenvolvimento de soluções integradas, unindo hardware e software.
