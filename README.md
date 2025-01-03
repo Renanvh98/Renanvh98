@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, eu sou Renan Vinicius!
+Sou Técnico em Eletrônica Pleno na Autodoc Tecnologia, estudante de Engenharia de Computação e apaixonado por desenvolvimento de sistemas e sistemas embarcados. Com formação técnica em Eletroeletrônica e Qualidade, tenho experiência prática em automação, controle de qualidade e integração entre hardware e software. 🚀
 
-<!--
-**Renanvh98/Renanvh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Tecnologias e Competências:
+Linguagens: Python (FastAPI, Django), C
+Hardware: ESP32, PIC, Raspberry Pi, Arduino
+Backend: Node.js, Docker, Git
+Banco de Dados: MySQL, PostgreSQL
+Desenvolvimento: Criação de firmware, otimização de circuitos e layout de PCBs
+📂 Projetos em Destaque:
+API Restaurante: Backend para gerenciar cardápios de restaurantes.
+Monitor de Consumo de Energia: Projeto integrador que utiliza ESP32 para monitoramento de energia.
+🌱 Atualmente Estudando:
+Sistemas IoT.
+🎯 Objetivo:
+Especialização em sistemas embarcados e desenvolvimento de soluções integradas unindo hardware e software.
+📫 Entre em contato:
+Email: renanvh98@gmail.com
+LinkedIn: https://www.linkedin.com/in/renan-vinicius-h-77b42aa6/
