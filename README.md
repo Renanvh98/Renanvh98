@@ -17,7 +17,7 @@ Projeto integrador que utiliza ESP32 para monitoramento de energia.
 
 
 🌱 Atualmente Estudando:
-Sistemas embarcados IoT.
+Projeto Alura com a Oracle
 
 🎯 Objetivo:
 Especialização em sistemas embarcados e desenvolvimento de soluções integradas, unindo hardware e software.
@@ -25,3 +25,6 @@ Especialização em sistemas embarcados e desenvolvimento de soluções integrad
 📫 Entre em contato:
 Email: renanvh98@gmail.com
 LinkedIn: https://www.linkedin.com/in/renan-vinicius-h-77b42aa6/
+
+            <i class="devicon-arduino-plain-wordmark colored"></i>
+          
