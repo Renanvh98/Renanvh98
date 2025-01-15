@@ -11,6 +11,12 @@ Ferramentas: Git, GitHub
 Desenvolvimento de Software: Manipulação de listas e dicionários (Python), laços de repetição, estruturas condicionais (if-elif-else), tratamento de exceções
 Outros: Relé, Interface de Linha de Comando (CLI), Ambientes Virtuais
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+
+
+
+
 📂 Projetos em Destaque:
 Monitor de Consumo de Energia:
 Projeto integrador que utiliza ESP32 para monitoramento de energia.
