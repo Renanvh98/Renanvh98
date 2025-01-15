@@ -25,5 +25,6 @@ Especialização em sistemas embarcados e desenvolvimento de soluções integrad
 📫 Entre em contato:
 Email: renanvh98@gmail.com
 LinkedIn: https://www.linkedin.com/in/renan-vinicius-h-77b42aa6/
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
