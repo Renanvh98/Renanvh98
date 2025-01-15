@@ -12,7 +12,8 @@ Desenvolvimento de Software: Manipulação de listas e dicionários (Python), la
 Outros: Relé, Interface de Linha de Comando (CLI), Ambientes Virtuais
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> 
+
 
 
 
