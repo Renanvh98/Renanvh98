@@ -20,7 +20,7 @@ Projeto integrador que utiliza ESP32 para monitoramento de energia.
 
 
 🌱 Atualmente Estudando:
-Projeto Alura com a Oracle
+Back-end | Projeto Alura com a Oracle
 
 🎯 Objetivo:
 Especialização em sistemas embarcados e desenvolvimento de soluções integradas, unindo hardware e software.
