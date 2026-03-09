@@ -1,6 +1,6 @@
 👋 Olá, eu sou Renan Vinicius!
 
-Atuo como Analista de Produtos Eletrônicos na MRI Tecnologia Eletrônica, estudante de Engenharia de Computação e apaixonado por desenvolvimento de sistemas e sistemas embarcados. Com formação técnica em Eletroeletrônica e Qualidade, tenho experiência prática em automação, controle de qualidade e integração entre hardware e software. 🚀
+Atuo como Desenvolvedor de Firmware na Scenario Automation, estudante de Engenharia de Computação e apaixonado por desenvolvimento de sistemas e sistemas embarcados. Com formação técnica em Eletroeletrônica e Qualidade, tenho experiência prática em automação, controle de qualidade e integração entre hardware e software. 🚀
 
 💼 Tecnologias e Competências:
 Linguagens: Python, C/C++
