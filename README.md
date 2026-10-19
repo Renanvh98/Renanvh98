@@ -75,23 +75,22 @@ Tenho experiência em projetos para automação industrial e residencial, equipa
 
 ## Projetos em destaque
 
+Projetos selecionados de desenvolvimento de hardware, firmware e sistemas embarcados.
+
 ### Hardware e firmware
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Smart Switch ESP32-C3](https://github.com/Renanvh98/smart-switch-esp32c3) | Projeto de interruptor inteligente com fonte AC-DC, circuito de acionamento e relé para automação residencial. | KiCad, ESP32-C3, eletrônica |
+| [Smart Switch ESP32-C3](https://github.com/Renanvh98/smart-switch-esp32c3) | Desenvolvimento de placa eletrônica para interruptor inteligente, com fonte AC-DC, acionamento por relé e conectividade Wi-Fi. | KiCad, ESP32-C3, C/C++ |
 | [Monitoramento de energia](https://github.com/Renanvh98/SMART_) | Sistema embarcado para monitoramento de grandezas elétricas. | C, ESP32 |
-| [EcoMonitor](https://github.com/Renanvh98/ecomonitor1998) | Projeto embarcado relacionado ao monitoramento de energia e sensores. | C, ESP32 |
-| [Sistema de irrigação IoT](https://github.com/Renanvh98/irriga_PI_VI) | Monitoramento de umidade do solo e vazão de água, com acionamento de bomba. | ESP32, sensores, relé |
-| [Monitoramento de câmaras frias](https://github.com/Renanvh98/hortifruti-monitoramento-iot) | Projeto IoT para acompanhamento de condições de armazenamento em câmaras frias. | ESP32, IoT |
+| [Sistema de irrigação IoT](https://github.com/Renanvh98/irriga_PI_VI) | Automação de irrigação com monitoramento de umidade do solo e vazão de água, incluindo acionamento de bomba. | ESP32, sensores, firmware |
+| [Monitoramento de câmaras frias](https://github.com/Renanvh98/hortifruti-monitoramento-iot) | Projeto IoT para monitoramento de condições ambientais em câmaras frias. | ESP32, sensores, IoT |
 
 <p align="center">
   <a href="https://github.com/Renanvh98?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar%20todos%20os%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" />
   </a>
 </p>
-
----
 
 ## Estatísticas do GitHub
 
